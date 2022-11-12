@@ -1,0 +1,3 @@
+[submodule "bluepill-serial-monster"]
+	path = bluepill-serial-monster
+	url = git@github.com:r2axz/bluepill-serial-monster.git
